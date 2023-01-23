@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="93ef1100-0801-4d33-9e81-93c2c43b5320" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/user.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="User.wsdl" MetadataType="Wsdl" ID="530594e7-81eb-4a99-8468-1df6846dab51" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/User.svc?wsdl" />
+    <MetadataFile FileName="User.xsd" MetadataType="Schema" ID="56e3cf6a-8d22-4e3d-afe5-8a785eae00f4" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/User.svc?xsd=xsd0" />
+    <MetadataFile FileName="User.disco" MetadataType="Disco" ID="8e914202-1b0b-4be3-8b8f-2ea79249db17" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/User.svc?disco" />
+    <MetadataFile FileName="User1.xsd" MetadataType="Schema" ID="03509d5c-fa57-4131-acbb-0632d6eca8ae" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/User.svc?xsd=xsd3" />
+    <MetadataFile FileName="User2.xsd" MetadataType="Schema" ID="81ababe3-2111-4d39-b1ca-41944364c261" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/User.svc?xsd=xsd1" />
+    <MetadataFile FileName="User3.xsd" MetadataType="Schema" ID="75f6679e-f8b0-44dc-ac9d-5478689c5518" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/User.svc?xsd=xsd4" />
+    <MetadataFile FileName="User1.wsdl" MetadataType="Wsdl" ID="30f7cce7-665b-4cb5-837f-123bcdb84029" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/User.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="User4.xsd" MetadataType="Schema" ID="3e230e4e-48cd-4edb-9f0d-c84c56f5fd38" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/User.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

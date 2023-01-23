@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6637b164-4410-4186-be32-447c47da2df3" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/settings.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Settings.xsd" MetadataType="Schema" ID="5c11c6cb-d08d-4ee9-9b05-57073888a3b3" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/Settings.svc?xsd=xsd1" />
+    <MetadataFile FileName="Settings.wsdl" MetadataType="Wsdl" ID="d9f45149-0c05-444c-a386-a3fc953372e6" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/Settings.svc?wsdl" />
+    <MetadataFile FileName="Settings.disco" MetadataType="Disco" ID="cf4a339e-5afc-466f-8268-3061d762221b" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/Settings.svc?disco" />
+    <MetadataFile FileName="Settings1.xsd" MetadataType="Schema" ID="6dfa0b52-c52d-4c4b-a64a-c49f8821a11c" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/Settings.svc?xsd=xsd0" />
+    <MetadataFile FileName="Settings2.xsd" MetadataType="Schema" ID="1e48bd5b-13b8-4086-92bd-03eeab24435d" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/Settings.svc?xsd=xsd3" />
+    <MetadataFile FileName="Settings1.wsdl" MetadataType="Wsdl" ID="804a4dbc-c3dd-4012-9ab0-a978746039af" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/Settings.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="Settings3.xsd" MetadataType="Schema" ID="61076395-8d4a-46cf-9e60-3c70868a7591" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/Settings.svc?xsd=xsd2" />
+    <MetadataFile FileName="Settings4.xsd" MetadataType="Schema" ID="949f1e41-599c-4f64-ab0a-bb4fb1c43e9c" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/Settings.svc?xsd=xsd4" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

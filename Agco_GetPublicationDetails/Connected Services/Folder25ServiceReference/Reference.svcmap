@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="9223a435-f151-4169-a2dd-46829aaeb57f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/Folder.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Folder.xsd" MetadataType="Schema" ID="183e36d6-89ee-4c85-997c-773ba5ea49ce" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/Folder.svc?xsd=xsd1" />
+    <MetadataFile FileName="Folder1.xsd" MetadataType="Schema" ID="dac5271a-ee34-4c18-8231-f3028a43c6ed" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/Folder.svc?xsd=xsd0" />
+    <MetadataFile FileName="Folder.wsdl" MetadataType="Wsdl" ID="06c7f84a-5113-4f46-aca7-425c0f81d671" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/Folder.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="Folder2.xsd" MetadataType="Schema" ID="f611e2db-5c36-44e0-870d-73b7340e1296" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/Folder.svc?xsd=xsd2" />
+    <MetadataFile FileName="Folder3.xsd" MetadataType="Schema" ID="b7bfe172-c83d-45cc-97ca-0702ca4de354" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/Folder.svc?xsd=xsd3" />
+    <MetadataFile FileName="Folder4.xsd" MetadataType="Schema" ID="98721676-04eb-4b77-be88-55c831a5eb14" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/Folder.svc?xsd=xsd4" />
+    <MetadataFile FileName="Folder1.wsdl" MetadataType="Wsdl" ID="93f5d04f-c219-40d9-b2d4-0dd97e131fa5" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/Folder.svc?wsdl" />
+    <MetadataFile FileName="Folder.disco" MetadataType="Disco" ID="84d922a5-b949-4682-ba68-4a177b2c3abf" SourceId="1" SourceUrl="https://agcodev01.sdlproducts.com/ISHWS/Wcf/API25/Folder.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
